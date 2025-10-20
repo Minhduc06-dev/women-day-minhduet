@@ -1,6 +1,6 @@
 const loichuc = [
-  "Chúc bạn một ngày 20/10 thật ngọt ngào và đáng nhớ 💖",
-  "Bạn là bông hoa đẹp nhất giữa khu vườn cuộc sống 🌷"
+  "Chúc bông hồng của minhduet một ngày 20/10 thật ngọt ngào và đáng nhớ 💖",
+  "You are the most exquisite blossom in the garden of life 🌷"
 ];
 
 const p = document.getElementById("loichuc");
