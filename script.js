@@ -1,8 +1,5 @@
 const loichuc = [
-  "Chúc bạn luôn xinh đẹp, rạng rỡ và tràn đầy niềm vui!",
   "Chúc bạn một ngày 20/10 thật ngọt ngào và đáng nhớ 💖",
-  "Chúc cho nụ cười luôn nở trên môi bạn 🌸",
-  "Mong mọi điều tốt đẹp nhất sẽ đến với bạn hôm nay!",
   "Bạn là bông hoa đẹp nhất giữa khu vườn cuộc sống 🌷"
 ];
 
